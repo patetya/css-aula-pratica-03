@@ -1,0 +1,27 @@
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #b3949b;
+}
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: White;
+    padding: 14px 16px;
+    text-decoration: none;
+   font-family: Roboto,sans-serif;
+}
+ li a:hover {
+    background-color: green;
+}
+h1 {
+    white-space: pre-wrap;
+}
+p {
+    white-space: pre-wrap;
+}

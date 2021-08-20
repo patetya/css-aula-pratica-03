@@ -1,0 +1,9 @@
+#titulo {
+    font-style: oblique;
+  }
+  .resumo {
+      font-size: 40px;
+      white-space: wrap;
+      font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  }
+    

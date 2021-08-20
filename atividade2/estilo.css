@@ -1,0 +1,9 @@
+#titulo {
+    font-style: italic;
+    text-transform: uppercase;
+    color: blue;
+  }
+div {
+  font-style: italic;
+    white-space: pre-wrap;
+}
